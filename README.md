@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-💻 Ingeniero de Sistemas, mi experiencia abarca desde el levantamiento de requisitos hasta el despliegue en producción.
+💻 Ingeniero de Sistemas y computación, mi experiencia abarca desde el levantamiento de requisitos hasta el despliegue en producción.
 </br>
 ⭐ Destaco por mi capacidad analítica, orientación a resultados y constante búsqueda de mejores prácticas en desarrollo de software. 
 </br>
