@@ -2,14 +2,10 @@
 
 ## Sobre mi
 
-💻 Ingeniero de Sistemas con más de 4 años de experiencia en desarrollo de software full stack, mi experiencia abarca desde el levantamiento de requisitos hasta el despliegue en producción.
-</br></br>
+💻 Ingeniero de Sistemas, mi experiencia abarca desde el levantamiento de requisitos hasta el despliegue en producción.
 ⭐ Destaco por mi capacidad analítica, orientación a resultados y constante búsqueda de mejores prácticas en desarrollo de software. 
-</br></br>
 📖 Mi enfoque proactivo y dedicación al aprendizaje continuo me posicionan como un profesional comprometido con la excelencia técnica. 
-</br></br>
 💡 Capacidad para gestionar proyectos y optimizar procesos tecnológicos, enfocado en entregar soluciones eficientes y seguras. 
-</br></br>
 🤖 Apasionado por la mejora continua y las nuevas tecnologías.
 
 ## Tecnologias:
