@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 </p>
 
-## Sobre mi
+## Sobre mí
 
 💻 Ingeniero de Sistemas y computación, mi experiencia abarca desde el levantamiento de requisitos hasta el despliegue en producción.
 </br>
@@ -15,7 +15,7 @@
 </br>
 🤖 Apasionado por la mejora continua y las nuevas tecnologías.
 
-## Tecnologias:
+## Tecnologías:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,py,flask,fastapi,ts,angular,androidstudio,anaconda,aws,azure,bash,bitbucket,bootstrap,dart,django,docker,dotnet,eclipse,electron,figma,flutter,git,github,gitlab,ai,java,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,sqlite,selenium,tailwind)](https://skillicons.dev)
 
