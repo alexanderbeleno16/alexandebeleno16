@@ -8,7 +8,7 @@ Destaco por mi capacidad analítica, orientación a resultados y constante búsq
 
 ## Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,laravel,py,flask,fastapi,ts,angular,ionic,androidstudio,anaconda,autocad,aws,azure,bash,bitbucket,bootstrap,dart,discord,django,docker,dotnet,eclipse,electron,figma,flutter,git,github,gitlab,gmail,htmx,idea,ai,java,jquery,linux,matlab,mint,mongodb,mysql,nginx,nodejs,npm,postgres,postman,powershell,redis,regex,sqlite,selenium,tailwind,oracle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,laravel,py,flask,fastapi,ts,angular,androidstudio,anaconda,aws,azure,bash,bitbucket,bootstrap,dart,django,docker,dotnet,eclipse,electron,figma,flutter,git,github,gitlab,ai,java,jquery,linux,mongodb,mysql,nginx,nodejs,postgres,redis,sqlite,selenium,tailwind)](https://skillicons.dev)
 
 ## Enlaces:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlexanderBeleño-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexander-beleño/)
